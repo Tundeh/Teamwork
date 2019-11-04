@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tundeh/Teamwork/issues"
   },
-  "homepage": "https://github.com/Tundeh/Teamwork#readme"
+  "homepage": "https://github.com/Tundeh/Teamwork#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
